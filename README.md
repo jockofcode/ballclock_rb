@@ -1,4 +1,4 @@
-# ballclock.go
+# ballclock.rb
 This is the ball clock sample project written in [Ruby](http://ruby-lang.org) by [Branden Giacoletto](https://github.com/jockofcode)
 * [Wikipedia: Rolling Ball Clock](http://en.wikipedia.org/wiki/Rolling_ball_clock)
 * [Manufacturer: IDLE-TYME](http://www.idle-tyme.com/)
